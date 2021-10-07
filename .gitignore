@@ -1,8 +1,7 @@
 *.swp
 npm-debug.log
-
+/.idea
 /coverage
-/dist
 /debug
 /node_modules
 
